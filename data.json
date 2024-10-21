@@ -1,0 +1,686 @@
+[
+  {
+    "month": "202407",
+    "title": "Mocking is an Anti-Pattern",
+    "url": "https://www.amazingcto.com/mocking-is-an-antipattern-how-to-test-without-mocking/",
+    "timestamp": 1721484207
+  },
+  {
+    "month": "202407",
+    "title": "Mapping the landscape of gen-AI product user experience",
+    "url": "https://interconnected.org/home/2024/07/19/ai-landscape",
+    "timestamp": 1721484301
+  },
+  {
+    "month": "202407",
+    "title": "How not to use box shadows",
+    "url": "https://dgerrells.com/blog/how-not-to-use-box-shadows",
+    "timestamp": 1721659574
+  },
+  {
+    "month": "202407",
+    "title": "Panic! at the Tech Job Market",
+    "url": "https://matt.sh/panic-at-the-job-market",
+    "timestamp": 1721740645
+  },
+  {
+    "month": "202407",
+    "title": "Python Practical Package Packing 2024",
+    "url": "https://matt.sh/python-project-structure-2024",
+    "timestamp": 1721743854
+  },
+  {
+    "month": "202407",
+    "title": "How we improved availability through iterative simplification",
+    "url": "https://github.blog/engineering/engineering-principles/how-we-improved-availability-through-iterative-simplification/",
+    "timestamp": 1721831984
+  },
+  {
+    "month": "202407",
+    "title": "We need visual programming. No, not like that.",
+    "url": "https://blog.sbensu.com/posts/demand-for-visual-programming/",
+    "timestamp": 1721832109
+  },
+  {
+    "month": "202407",
+    "title": "How to review code effectively: A GitHub staff engineer’s philosophy",
+    "url": "https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/",
+    "timestamp": 1721832271
+  },
+  {
+    "month": "202407",
+    "title": "Anyone can Access Deleted and Private Repository Data on GitHub ◆ Truffle Security Co.",
+    "url": "https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github",
+    "timestamp": 1722006457
+  },
+  {
+    "month": "202407",
+    "title": "Exposition of Frontend Build Systems",
+    "url": "https://sunsetglow.net/posts/frontend-build-systems.html",
+    "timestamp": 1722076804
+  },
+  {
+    "month": "202407",
+    "title": "The Many Lives of Null Island | Stamen",
+    "url": "https://stamen.com/the-many-lives-of-null-island/",
+    "timestamp": 1722263282
+  },
+  {
+    "month": "202407",
+    "title": "We had an AI attempt to make a data-driven story like we do at The Pudding",
+    "url": "https://pudding.cool/2024/07/ai/",
+    "timestamp": 1722435630
+  },
+  {
+    "month": "202408",
+    "title": "Build your own SQS or Kafka with Postgres",
+    "url": "https://blog.sequinstream.com/build-your-own-sqs-or-kafka-with-postgres/",
+    "timestamp": 1722524260
+  },
+  {
+    "month": "202408",
+    "title": "How to Get or Create in PostgreSQL",
+    "url": "https://hakibenita.com/postgresql-get-or-create",
+    "timestamp": 1722955536
+  },
+  {
+    "month": "202408",
+    "title": "PAGNIs: Probably Are Gonna Need Its",
+    "url": "https://simonwillison.net/2021/Jul/1/pagnis/",
+    "timestamp": 1723042160
+  },
+  {
+    "month": "202408",
+    "title": "YAGNI exceptions",
+    "url": "https://lukeplant.me.uk/blog/posts/yagni-exceptions/",
+    "timestamp": 1723042323
+  },
+  {
+    "month": "202408",
+    "title": "Is It Time To Version Observability? (Signs Point To Yes)",
+    "url": "https://charity.wtf/2024/08/07/is-it-time-to-version-observability-signs-point-to-yes/",
+    "timestamp": 1723129031
+  },
+  {
+    "month": "202408",
+    "title": "Turning the Tables on AI",
+    "url": "https://ia.net/topics/turning-the-tables-on-ai",
+    "timestamp": 1723363421
+  },
+  {
+    "month": "202408",
+    "title": "Learn OAuth 2.0 by Building Your Own OAuth Client",
+    "url": "https://annotate.dev/p/hello-world/learn-oauth-2-0-by-building-your-own-oauth-client-U2HaZNtvQojn4F",
+    "timestamp": 1723449400
+  },
+  {
+    "month": "202408",
+    "title": "Do Quests, Not Goals",
+    "url": "https://www.raptitude.com/2024/08/do-quests-not-goals/",
+    "timestamp": 1723558052
+  },
+  {
+    "month": "202408",
+    "title": "Chevy Ray | How I Created 175 Fonts Using Rust",
+    "url": "https://chevyray.dev/blog/creating-175-fonts/",
+    "timestamp": 1723558133
+  },
+  {
+    "month": "202408",
+    "title": "Web 端实时防挡脸弹幕（基于机器学习） | 风痕 · 術&思",
+    "url": "https://hughfenghen.github.io/posts/2023/06/21/body-mask-danmaku/",
+    "timestamp": 1723560435
+  },
+  {
+    "month": "202408",
+    "title": "AI Seinfeld was the peak of AI-generated content. It will never happen again.",
+    "url": "https://minimaxir.com/2024/08/ai-seinfeld/",
+    "timestamp": 1723646009
+  },
+  {
+    "month": "202408",
+    "title": "Optimizing SPA load times with async chunks preloading",
+    "url": "https://mmazzarolo.com/blog/2024-08-13-async-chunk-preloading-on-load/",
+    "timestamp": 1723647437
+  },
+  {
+    "month": "202408",
+    "title": "One Thing Nobody Explained To You About TypeScript",
+    "url": "https://kettanaito.com/blog/one-thing-nobody-explained-to-you-about-typescript",
+    "timestamp": 1723818761
+  },
+  {
+    "month": "202408",
+    "title": "How to convert a Node.js stream of event callback functions into an Async Iterator",
+    "url": "https://www.jbernier.com/p?id=nodejs-stream-async-iterator",
+    "timestamp": 1723819080
+  },
+  {
+    "month": "202408",
+    "title": "“The Door Problem” – Liz England",
+    "url": "https://lizengland.com/blog/2014/04/the-door-problem/",
+    "timestamp": 1723958314
+  },
+  {
+    "month": "202408",
+    "title": "Harvesting, Fishing, Panning for Gold",
+    "url": "https://staysaasy.com/strategy/2024/08/18/harvesting-fishing-panning-for-gold.html",
+    "timestamp": 1724076718
+  },
+  {
+    "month": "202408",
+    "title": "Software engineering practices",
+    "url": "https://simonwillison.net/2022/Oct/1/software-engineering-practices/",
+    "timestamp": 1724252720
+  },
+  {
+    "month": "202408",
+    "title": "Continuous reinvention: A brief history of block storage at AWS",
+    "url": "https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html",
+    "timestamp": 1724424739
+  },
+  {
+    "month": "202408",
+    "title": "CSS finally adds vertical centering in 2024 | Blog | build-your-own.org",
+    "url": "https://build-your-own.org/blog/20240813_css_vertical_center/",
+    "timestamp": 1724498652
+  },
+  {
+    "month": "202408",
+    "title": "Font with Built-In Syntax Highlighting",
+    "url": "https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/",
+    "timestamp": 1724499197
+  },
+  {
+    "month": "202408",
+    "title": "A Visual Guide to Quantization",
+    "url": "https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization",
+    "timestamp": 1724500398
+  },
+  {
+    "month": "202408",
+    "title": "Tacit Knowledge is Dangerous",
+    "url": "https://er4hn.info/blog/2023.08.26-tacit-knowledge-dangerous/",
+    "timestamp": 1724500567
+  },
+  {
+    "month": "202408",
+    "title": "Command Line Data Processing: Using DuckDB as a Unix Tool",
+    "url": "https://duckdb.org/2024/06/20/cli-data-processing-using-duckdb-as-a-unix-tool.html",
+    "timestamp": 1724503708
+  },
+  {
+    "month": "202408",
+    "title": "Where Should Visual Programming Go?",
+    "url": "https://tonsky.me/blog/diagrams/",
+    "timestamp": 1724567580
+  },
+  {
+    "month": "202408",
+    "title": "Lessons learned in 35 years of making software",
+    "url": "https://dev.jimgrey.net/2024/07/03/lessons-learned-in-35-years-of-making-software/",
+    "timestamp": 1724568001
+  },
+  {
+    "month": "202408",
+    "title": "Pinning：重新想象倒数日 App - 少数派",
+    "url": "https://sspai.com/post/91599",
+    "timestamp": 1724768932
+  },
+  {
+    "month": "202408",
+    "title": "MiniJinja: Learnings from Building a Template Engine in Rust",
+    "url": "https://lucumr.pocoo.org/2024/8/27/minijinja/",
+    "timestamp": 1724856700
+  },
+  {
+    "month": "202408",
+    "title": "Leader Election With S3 Conditional Writes",
+    "url": "https://www.morling.dev/blog/leader-election-with-s3-conditional-writes/",
+    "timestamp": 1725079233
+  },
+  {
+    "month": "202408",
+    "title": "Software Engineering - The Soft Parts",
+    "url": "https://addyosmani.com/blog/software-engineering-soft-parts/#quote-17",
+    "timestamp": 1725081576
+  },
+  {
+    "month": "202408",
+    "title": "why lowercase letters save data | endtimes.dev",
+    "url": "https://endtimes.dev/why-lowercase-letters-save-data/",
+    "timestamp": 1725104518
+  },
+  {
+    "month": "202408",
+    "title": "Anthropic’s Prompt Engineering Interactive Tutorial",
+    "url": "https://simonwillison.net/2024/Aug/30/anthropic-prompt-engineering-interactive-tutorial/",
+    "timestamp": 1725104846
+  },
+  {
+    "month": "202409",
+    "title": "Reasons to write design docs | nicole@web",
+    "url": "https://ntietz.com/blog/reasons-to-write-design-docs",
+    "timestamp": 1725286279
+  },
+  {
+    "month": "202409",
+    "title": "从GraphRAG看信息的重新组织 - 铁蕾的个人博客",
+    "url": "http://zhangtielei.com/posts/blog-graph-rag-information_org.html",
+    "timestamp": 1725286435
+  },
+  {
+    "month": "202409",
+    "title": "Textual - Anatomy of a Textual User Interface",
+    "url": "https://textual.textualize.io/blog/2024/09/15/anatomy-of-a-textual-user-interface/",
+    "timestamp": 1725373850
+  },
+  {
+    "month": "202409",
+    "title": "Greppability is an underrated code metric",
+    "url": "https://morizbuesing.com/blog/greppability-code-metric/",
+    "timestamp": 1725459566
+  },
+  {
+    "month": "202409",
+    "title": "Paying down tech debt",
+    "url": "https://newsletter.pragmaticengineer.com/p/paying-down-tech-debt",
+    "timestamp": 1725463557
+  },
+  {
+    "month": "202409",
+    "title": "Things You Should Never Do, Part I",
+    "url": "https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/",
+    "timestamp": 1725463787
+  },
+  {
+    "month": "202409",
+    "title": "The Art of Finishing | ByteDrum",
+    "url": "https://www.bytedrum.com/posts/art-of-finishing/",
+    "timestamp": 1725546274
+  },
+  {
+    "month": "202409",
+    "title": "Every webpage deserves to be a place",
+    "url": "https://interconnected.org/home/2024/09/05/cursor-party",
+    "timestamp": 1725628853
+  },
+  {
+    "month": "202409",
+    "title": "Got an incident? pull the Andon Cord",
+    "url": "https://spike.sh/blog/pull-the-andon-cord/",
+    "timestamp": 1725629979
+  },
+  {
+    "month": "202409",
+    "title": "Seafaring for Women in Software Engineering - Part I - Performance & Promotion",
+    "url": "https://beabytes.com/seafaring-part-i/",
+    "timestamp": 1725635369
+  },
+  {
+    "month": "202409",
+    "title": "Cog",
+    "url": "https://nedbatchelder.com/code/cog",
+    "timestamp": 1725703888
+  },
+  {
+    "month": "202409",
+    "title": "OAuth from First Principles - Stack Auth",
+    "url": "https://stack-auth.com/blog/oauth-from-first-principles",
+    "timestamp": 1725705931
+  },
+  {
+    "month": "202409",
+    "title": "Garbage collection and closures",
+    "url": "https://jakearchibald.com/2024/garbage-collection-and-closures/",
+    "timestamp": 1725706760
+  },
+  {
+    "month": "202409",
+    "title": "No more “Expert, Intermediate, Beginner”: Classifying talks in Call for Papers/Conference agendas | Christian Heilmann",
+    "url": "https://christianheilmann.com/2024/09/06/no-more-expert-intermediate-beginner-classifying-talks-in-call-for-papers-conference-agendas/",
+    "timestamp": 1725794480
+  },
+  {
+    "month": "202409",
+    "title": "Zeyi-Lin/HivisionIDPhotos: ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。",
+    "url": "https://github.com/Zeyi-Lin/HivisionIDPhotos",
+    "timestamp": 1725794642
+  },
+  {
+    "month": "202409",
+    "title": "聊聊自动化 PDF 渲染方案",
+    "url": "https://roriri.one/2024/08/28/pdf-rendering/",
+    "timestamp": 1725892311
+  },
+  {
+    "month": "202409",
+    "title": "Making progress on side projects with content-driven development | nicole@web",
+    "url": "/blog/making-progress-with-content-driven-development/",
+    "timestamp": 1725892458
+  },
+  {
+    "month": "202409",
+    "title": "Why GitHub Actually Won",
+    "url": "https://blog.gitbutler.com/why-github-actually-won/",
+    "timestamp": 1725979586
+  },
+  {
+    "month": "202409",
+    "title": "Notes from my appearance on the Software Misadventures Podcast",
+    "url": "https://simonwillison.net/2024/Sep/10/software-misadventures/",
+    "timestamp": 1726068456
+  },
+  {
+    "month": "202409",
+    "title": "GitHub's CSP journey",
+    "url": "https://github.blog/engineering/platform-security/githubs-csp-journey/",
+    "timestamp": 1726151406
+  },
+  {
+    "month": "202409",
+    "title": "Notes on running Go in the browser with WebAssembly - Eli Bendersky's website",
+    "url": "https://eli.thegreenplace.net/2024/notes-on-running-go-in-the-browser-with-webassembly/",
+    "timestamp": 1726371588
+  },
+  {
+    "month": "202409",
+    "title": "Speed matters",
+    "url": "https://www.scattered-thoughts.net/writing/speed-matters/",
+    "timestamp": 1726397145
+  },
+  {
+    "month": "202409",
+    "title": "The Joel Test: 12 Steps to Better Code",
+    "url": "https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/",
+    "timestamp": 1726402063
+  },
+  {
+    "month": "202409",
+    "title": "Advanced Shell Scripting Techniques: Automating Complex Tasks with Bash",
+    "url": "https://omid.dev/2024/06/19/advanced-shell-scripting-techniques-automating-complex-tasks-with-bash/",
+    "timestamp": 1726402128
+  },
+  {
+    "month": "202409",
+    "title": "Optimizing Javascript for fun and for profit",
+    "url": "https://romgrk.com/posts/optimizing-javascript",
+    "timestamp": 1726402405
+  },
+  {
+    "month": "202409",
+    "title": "How to Zip Files with the Python S3fs Library + Backblaze B2 Cloud Storage",
+    "url": "https://www.backblaze.com/blog/how-to-zip-files-with-the-python-s3fs-library-backblaze-b2-cloud-storage/",
+    "timestamp": 1726671028
+  },
+  {
+    "month": "202409",
+    "title": "Things I’ve learned serving on the board of the Python Software Foundation",
+    "url": "https://simonwillison.net/2024/Sep/18/board-of-the-python-software-foundation/",
+    "timestamp": 1726755270
+  },
+  {
+    "month": "202409",
+    "title": "Introducing Netflix’s Key-Value Data Abstraction Layer",
+    "url": "https://netflixtechblog.com/introducing-netflixs-key-value-data-abstraction-layer-1ea8a0a11b30",
+    "timestamp": 1726758055
+  },
+  {
+    "month": "202409",
+    "title": "sz3/libcimbar",
+    "url": "https://github.com/sz3/libcimbar",
+    "timestamp": 1726913405
+  },
+  {
+    "month": "202409",
+    "title": "The web's clipboard, and how it stores data of different types",
+    "url": "undefined/blog/clipboard",
+    "timestamp": 1726924743
+  },
+  {
+    "month": "202409",
+    "title": "Good Refactoring vs Bad Refactoring",
+    "url": "https://www.builder.io/blog/good-vs-bad-refactoring",
+    "timestamp": 1726999169
+  },
+  {
+    "month": "202409",
+    "title": "Understanding AbortController in Node.js: A Complete Guide | Better Stack Community",
+    "url": "https://betterstack.com/community/guides/scaling-nodejs/understanding-abortcontroller/",
+    "timestamp": 1726999684
+  },
+  {
+    "month": "202409",
+    "title": "Deploying Web Apps with Caddy: A Beginner's Guide | Better Stack Community",
+    "url": "https://betterstack.com/community/guides/web-servers/caddy/",
+    "timestamp": 1727000235
+  },
+  {
+    "month": "202409",
+    "title": "CSS for printing to paper",
+    "url": "https://voussoir.net/writing/css_for_printing",
+    "timestamp": 1727000290
+  },
+  {
+    "month": "202409",
+    "title": "What I tell people new to on-call | nicole@web",
+    "url": "/blog/what-i-tell-people-new-to-oncall/",
+    "timestamp": 1727103732
+  },
+  {
+    "month": "202409",
+    "title": "接纳不等于忍受，为舒服使用 Windows 11 的若干优化调整记录 - 少数派",
+    "url": "https://sspai.com/post/92064",
+    "timestamp": 1727281285
+  },
+  {
+    "month": "202409",
+    "title": "JSON For You | The best online JSON tool",
+    "url": "https://json4u.com",
+    "timestamp": 1727361252
+  },
+  {
+    "month": "202409",
+    "title": "Haystack",
+    "url": "https://haystackeditor.com/",
+    "timestamp": 1727361289
+  },
+  {
+    "month": "202409",
+    "title": "How iOS Restricts Features by Region: A Look at MobileGestalt and Eligibility",
+    "url": "https://type.cyhsu.xyz/2024/09/ios-feature-regional-lockout/",
+    "timestamp": 1727448439
+  },
+  {
+    "month": "202409",
+    "title": "Some Go web dev notes",
+    "url": "https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/",
+    "timestamp": 1727494059
+  },
+  {
+    "month": "202409",
+    "title": "It's hard to write code for computers, but it's even harder to write code for humans",
+    "url": "https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html",
+    "timestamp": 1727494406
+  },
+  {
+    "month": "202409",
+    "title": "How I Think About Debt",
+    "url": "https://collabfund.com/blog/how-i-think-about-debt/",
+    "timestamp": 1727523147
+  },
+  {
+    "month": "202409",
+    "title": "OpenAPI Spec - Parameter Serialization",
+    "url": "https://docs.bump.sh/guides/openapi/specification/v3.1/understanding-structure/parameter-serialization/",
+    "timestamp": 1727523998
+  },
+  {
+    "month": "202409",
+    "title": "TCP Fast Open",
+    "url": "https://dbwu.tech/posts/network/what-is-tcp-fast-open/",
+    "timestamp": 1727524112
+  },
+  {
+    "month": "202409",
+    "title": "Things You Didn't Know About GNU Readline",
+    "url": "https://twobithistory.org/2019/08/22/readline.html",
+    "timestamp": 1727524170
+  },
+  {
+    "month": "202409",
+    "title": "NotebookLM’s automatically generated podcasts are surprisingly effective",
+    "url": "https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/",
+    "timestamp": 1727703601
+  },
+  {
+    "month": "202410",
+    "title": "Conflating Overture Places Using DuckDB, Ollama, Embeddings, and More",
+    "url": "https://www.dbreunig.com/2024/09/27/conflating-overture-points-of-interests-with-duckdb-ollama-and-more.html",
+    "timestamp": 1727754458
+  },
+  {
+    "month": "202410",
+    "title": "Rowboat",
+    "url": "https://rowboat.xyz/",
+    "timestamp": 1727754561
+  },
+  {
+    "month": "202410",
+    "title": "OpenAI DevDay 2024 live blog",
+    "url": "https://simonwillison.net/2024/Oct/1/openai-devday-2024-live-blog/",
+    "timestamp": 1727877029
+  },
+  {
+    "month": "202410",
+    "title": "A Local-First Case Study | jakelazaroff.com",
+    "url": "https://jakelazaroff.com/words/a-local-first-case-study/",
+    "timestamp": 1727877491
+  },
+  {
+    "month": "202410",
+    "title": "Terminal colours are tricky",
+    "url": "https://jvns.ca/blog/2024/10/01/terminal-colours/",
+    "timestamp": 1727933085
+  },
+  {
+    "month": "202410",
+    "title": "Hybrid full-text search and vector search with SQLite",
+    "url": "https://alexgarcia.xyz/blog/2024/sqlite-vec-hybrid-search/index.html",
+    "timestamp": 1728094326
+  },
+  {
+    "month": "202410",
+    "title": "Wikidata is a Giant Crosswalk File",
+    "url": "https://www.dbreunig.com/2024/10/04/wikidata-is-a-giant-crosswalk-file.html",
+    "timestamp": 1728202911
+  },
+  {
+    "month": "202410",
+    "title": "VTracer",
+    "url": "https://www.visioncortex.org/vtracer/",
+    "timestamp": 1728276727
+  },
+  {
+    "month": "202410",
+    "title": "Some notes on upgrading Hugo",
+    "url": "https://jvns.ca/blog/2024/10/07/some-notes-on-upgrading-hugo/",
+    "timestamp": 1728403457
+  },
+  {
+    "month": "202410",
+    "title": "Thoughts on the Treasurer Role at Tech NonProfits - Will Vincent",
+    "url": "https://wsvincent.com/thoughts-on-pyconnz/",
+    "timestamp": 1728403559
+  },
+  {
+    "month": "202410",
+    "title": "感谢捉虫：聊聊自动更正的前世今生 - 少数派",
+    "url": "https://sspai.com/post/92657",
+    "timestamp": 1728404659
+  },
+  {
+    "month": "202410",
+    "title": "curl bug-bounty stats | daniel.haxx.se",
+    "url": "https://daniel.haxx.se/blog/2024/10/09/curl-bug-bounty-stats/",
+    "timestamp": 1728485683
+  },
+  {
+    "month": "202410",
+    "title": "Turning a conference talk into an annotated presentation - Jacob Kaplan-Moss",
+    "url": "https://jacobian.org/til/talk-to-writeup-workflow/",
+    "timestamp": 1728487369
+  },
+  {
+    "month": "202410",
+    "title": "temporal - Open Source Durable Execution",
+    "url": "https://temporal.io/",
+    "timestamp": 1728489021
+  },
+  {
+    "month": "202410",
+    "title": "jazz - Instant sync",
+    "url": "https://jazz.tools/",
+    "timestamp": 1728489975
+  },
+  {
+    "month": "202410",
+    "title": "A static business is a healthy business",
+    "url": "https://world.hey.com/jason/a-static-business-is-a-healthy-business-c0c2961b",
+    "timestamp": 1728572885
+  },
+  {
+    "month": "202410",
+    "title": "Can You Get Root With Only a Cigarette Lighter? | Blog",
+    "url": "https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html",
+    "timestamp": 1728659828
+  },
+  {
+    "month": "202410",
+    "title": "How Hard Should Your Employer Work To Retain You?",
+    "url": "https://charity.wtf/2024/10/11/how-hard-should-your-employer-work-to-retain-you/",
+    "timestamp": 1728661887
+  },
+  {
+    "month": "202410",
+    "title": "The Copenhagen Book",
+    "url": "https://thecopenhagenbook.com/",
+    "timestamp": 1728749166
+  },
+  {
+    "month": "202410",
+    "title": "Making algorithms faster",
+    "url": "https://learnmoderncpp.com/2024/10/12/making-algorithms-faster/",
+    "timestamp": 1728818722
+  },
+  {
+    "month": "202410",
+    "title": "SQL/JSON is here! (kinda “Waiting for Pg 17”) – select * from depesz;",
+    "url": "https://www.depesz.com/2024/10/11/sql-json-is-here-kinda-waiting-for-pg-17/",
+    "timestamp": 1728916967
+  },
+  {
+    "month": "202410",
+    "title": "Investigation of a Workbench UI Latency Issue",
+    "url": "https://netflixtechblog.com/investigation-of-a-workbench-ui-latency-issue-faa017b4653d",
+    "timestamp": 1729004718
+  },
+  {
+    "month": "202410",
+    "title": "Web Browser Engineering",
+    "url": "https://browser.engineering/",
+    "timestamp": 1729087001
+  },
+  {
+    "month": "202410",
+    "title": "Why techies leave Big Tech",
+    "url": "https://newsletter.pragmaticengineer.com/p/leaving-big-tech",
+    "timestamp": 1729089199
+  },
+  {
+    "month": "202410",
+    "title": "9001/copyparty",
+    "url": "https://github.com/9001/copyparty",
+    "timestamp": 1729090064
+  }
+]
