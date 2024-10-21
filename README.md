@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-10-21) [碳市场和碳价格——从哪里开始](202410/2024-10-21-%E7%A2%B3%E5%B8%82%E5%9C%BA%E5%92%8C%E7%A2%B3%E4%BB%B7%E6%A0%BC%E2%80%94%E2%80%94%E4%BB%8E%E5%93%AA%E9%87%8C%E5%BC%80%E5%A7%8B.md)
 - (2024-10-21) [使用LLM实现自然语言的SQL查询代理_llm + sql-CSDN博客](202410/2024-10-21-%E4%BD%BF%E7%94%A8llm%E5%AE%9E%E7%8E%B0%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E7%9A%84sql%E6%9F%A5%E8%AF%A2%E4%BB%A3%E7%90%86_llm-%2B-sql-csdn%E5%8D%9A%E5%AE%A2.md)
 - (2024-10-16) [9001/copyparty](202410/2024-10-16-9001-copyparty.md)
 - (2024-10-16) [Why techies leave Big Tech](202410/2024-10-16-why-techies-leave-big-tech.md)
